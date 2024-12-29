@@ -1,0 +1,56 @@
+
+    
+    [
+        {
+            "id" : 1,
+          "name": "Wireless Bluetooth Headphones",
+          "price": 4999
+        },
+        {
+            "id" : 2,
+          "name": "Smartphone 128GB",
+          "price": 9498
+        },
+        {
+            "id" : 3,
+          "name": "Stainless Steel Water Bottle",
+          "price": 700
+        },
+        {
+            "id" : 4,
+          "name": "Gaming Laptop 16GB RAM",
+          "price": 78000
+        },
+        {
+            "id" : 5,
+          "name": "Running Shoes",
+          "price": 1500
+        },
+        {
+            "id" : 6,
+          "name": "Wireless Mouse",
+          "price": 2500
+        },
+        {
+            "id" : 7,
+          "name": "4K Ultra HD TV 55-inch",
+          "price": 45000
+        },
+        {
+            "id" : 8,
+          "name": "Kitchen Blender",
+          "price": 3500
+        },
+        {
+            "id" : 9,
+          "name": "Noise Cancelling Earbuds",
+          "price": 3000
+        },
+        {
+            "id" : 10,
+          "name": "Portable Power Bank",
+          "price": 2000
+        }
+      ]
+      
+

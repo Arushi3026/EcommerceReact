@@ -1,0 +1,76 @@
+ form{
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+    margin-left: 450px;
+    margin-top: 80px;
+ }
+
+ .formhead{
+    color: darkblue;
+ }
+
+ .form1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 300px;
+    height: 390px;
+    background-color: white;
+    margin-left: 45px;
+    background-color: rgb(159, 183, 214);
+ }
+
+ .email{
+    color: darkblue;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 65px;
+    margin-bottom: 15px;
+ }
+
+ .pass{
+    color: darkblue;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 65px;
+    margin-bottom: 15px;
+ }
+ .name{
+    color: darkblue;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 65px;
+    margin-bottom: 15px;
+ }
+
+ button{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(43, 43, 224);
+    border-color: rgb(43, 43, 224);
+    color: white;
+    border-radius: 8px;
+    margin-top: 30px;
+ }
+
+ input{
+    height: 30px;
+    background-color: rgb(159, 183, 214);
+    border: 2px solid darkblue;
+    outline: none;
+    transition: background-color 0.3s ease;
+ }
+
+ input::-webkit-input-placeholder{
+    color: black;
+ }
+
+
+ label{
+    font-size: 20px;
+ }
